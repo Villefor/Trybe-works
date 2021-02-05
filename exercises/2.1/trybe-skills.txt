@@ -3,3 +3,8 @@ O que eu vou aprender na Trybe:
 - Unix
 - Bash
 - Git
+- Java
+- React
+- Git
+- Python
+- HTML
