@@ -7,8 +7,3 @@ O que eu vou aprender na Trybe:
 - React
 - Git
 - Python
-- HTML
-- Front
-- SQL
-- MySQL
-- Back
