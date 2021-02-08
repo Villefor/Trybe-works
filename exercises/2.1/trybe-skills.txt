@@ -8,3 +8,7 @@ O que eu vou aprender na Trybe:
 - Git
 - Python
 - HTML
+- Front
+- SQL
+- MySQL
+- Back
